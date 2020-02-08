@@ -1,4 +1,4 @@
-#Part 3 (Static Replication)
+#Static Replication
 
 '''
 Evaluation of European derivatives using Black-Scholes model and Bachelier model
