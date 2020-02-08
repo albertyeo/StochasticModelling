@@ -1,4 +1,4 @@
-#Part 1 (Analytical Option Formulae)
+#Analytical Option Formulae
 
 '''
 Calculation of the value of the following European options:
