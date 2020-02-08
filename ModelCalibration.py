@@ -13,8 +13,6 @@ from scipy import interpolate
 import matplotlib.pylab as plt
 import datetime as dt
 from scipy.optimize import least_squares
-from math import log, sqrt, exp
-from scipy.optimize import fsolve
 #------------------------------------------------------------------------------
 #Black-Scholes Model
 
